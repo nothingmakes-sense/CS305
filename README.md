@@ -1,5 +1,5 @@
 # CS305
-###Summary of Client and Requirements
+### Summary of Client and Requirements
 Artemis Financial is a consulting company that develops individualized financial plans for customers, including savings, retirement, investments, and insurance. As the client for Global Rain, a software engineering company specializing in custom software design, Artemis Financial wanted to modernize its operations and enhance software security. Specifically, they sought expertise to protect client data and financial information through a public web interface, including adding a file verification step with checksums for secure communications.
 ###Strengths in Addressing Vulnerabilities and Importance of Secure Coding
 I effectively identified and addressed security vulnerabilities by recommending and deploying an appropriate encryption algorithm cipher, generating self-signed certificates, implementing cryptographic hash algorithms, and verifying secure communications via HTTPS. Secure coding is crucial because it prevents unauthorized access, data breaches, and exploitation of weaknesses that could lead to financial loss or reputational damage. It adds value to a company's well-being by ensuring compliance with security protocols, building customer trust, reducing legal risks, and maintaining operational integrity in an environment where data protection is paramount.
